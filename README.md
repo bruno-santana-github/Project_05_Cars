@@ -1,0 +1,1 @@
+This project is an Automotive Agency page. On this site I use JavaScript techniques to range values and create a fully responsive mobile menu. Use a color palette that is attractive and matches the pages of the site. I also used PHP to make the website pages fully dynamic.
